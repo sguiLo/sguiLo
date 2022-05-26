@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sguiLo
 - 👀 Eu tenho interesse em me tornar um desenvolvedor.
-- 🌱 Atualmente estou aprendendo HTML5, CSS3 e JavaScrpit!
+- 🌱 Atualmente estou aprendendo HTML5, CSS3 e JavaScript!
 
 <!---
 sguiLo/sguiLo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
