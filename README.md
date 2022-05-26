@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sguiLo
-- 👀 Eu tenho interesse em me tornar um desenvolvedor.
+- 👋 Oi, eu sou o @sguiLo
+- 👀 Eu tenho interesse em me tornar um desenvolvedor e estou estudando para isso.
 - 🌱 Atualmente estou aprendendo HTML5, CSS3 e JavaScript!
 
 <!---
